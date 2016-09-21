@@ -1,0 +1,38 @@
+[
+{
+"id": 1,
+"longitude": null,
+"latitude": null,
+"name": "John McClane",
+"courses": [
+{
+"id": 4,
+"courseCode": "INF5761",
+"name": "Health management information systems"
+},
+{
+"id": 3,
+"courseCode": "INF5750",
+"name": "Open Source Development"
+}
+]
+},
+{
+"id": 2,
+"longitude": null,
+"latitude": null,
+"name": "Jane Fonda",
+"courses": [
+{
+"id": 4,
+"courseCode": "INF5761",
+"name": "Health management information systems"
+},
+{
+"id": 3,
+"courseCode": "INF5750",
+"name": "Open Source Development"
+}
+]
+}
+]
